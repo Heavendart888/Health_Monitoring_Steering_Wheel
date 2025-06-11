@@ -54,3 +54,8 @@ Use:
 * Embed MAX3010x on steering for HeartRate.
 * Secure ESP32 + modules under dash or seat.
 * Use fused power for SIM800L.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it for your own purposes.
+
