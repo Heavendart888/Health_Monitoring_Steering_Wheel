@@ -49,11 +49,11 @@ void setup() {
 void sendSMS(String msg) {
   sim800.println("AT+CMGF=1");
   delay(500);
-  sim800.println("AT+CMGS=\"+91XXXXXXXXXX\"");  // Replace with your number
+  sim800.println("AT+CMGS=\"+91XXXXXXXXXX\"");  // Replace with your number // Used +91 for Indian sim
   delay(500);
   sim800.print(msg);
   delay(200);
-  sim800.write(26); // Ctrl+Z
+  sim800.write(26);
   delay(2000);
 }
 
