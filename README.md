@@ -1,7 +1,10 @@
 # Health_Monitoring_Steering_Wheel
 Complete ESP32-based version of the Health Monitoring Steering Wheel / Seatbelt System — with sensor connections, power tips, and full working code
 
----
+**Disclamer:** Use the Below Image just for refrence do not follow the connection as per the image use the connection that i have provided in text form.
+
+![project](https://github.com/user-attachments/assets/f9c0d093-3809-4d5a-97f6-cc26ed1de95a)
+
 
 ## ⚙️ Components List (ESP32-Compatible)
 
